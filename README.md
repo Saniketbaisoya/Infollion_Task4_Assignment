@@ -60,10 +60,14 @@ src/
 
 ---
 
-## 🎥 Demo Video and Images:
+## Demo Images:
 
 👉 **Watch the demo Video here:**
 https://github.com/Saniketbaisoya/Infollion_Task4_Assignment/issues/1#issue-3739616847
+
+---
+
+## Demo Video:
 👉 **Watch the demo Image here:**
 <img width="1428" height="727" alt="Screenshot 2025-12-17 at 21 44 51" src="https://github.com/user-attachments/assets/518e333d-b92d-4815-980d-dcefc1f6a257" />
 
