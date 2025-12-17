@@ -22,7 +22,7 @@ This project dynamically renders hierarchical data in a tree structure with smoo
 
 - **React (Vite)**
 - **React Flow**
-- **JavaScript (ES6+)**
+- **JavaScript+SWC (ES6+)**
 - **CSS / Tailwind (for styling)**
 
 ---
