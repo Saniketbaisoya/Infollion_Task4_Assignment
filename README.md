@@ -29,22 +29,23 @@ This project dynamically renders hierarchical data in a tree structure with smoo
 
 ## 📂 Project Structure
 
+```text
 src/
 ├── Components/
-│ ├── TreeCanvas.jsx # Main canvas with React Flow
-│ ├── TreeNode.jsx # Custom node component
-│ └── Controls.jsx # Expand / Collapse buttons
+│   ├── TreeCanvas.jsx   # Main canvas with React Flow
+│   ├── TreeNode.jsx     # Custom node component
+│   └── Controls.jsx     # Expand / Collapse buttons
 │
 ├── Data/
-│ └── treeData.js # Hierarchical tree data
+│   └── treeData.js      # Hierarchical tree data
 │
 ├── utils/
-│ └── layoutTree.js # Recursive tree layout algorithm
+│   └── layoutTree.js    # Recursive tree layout algorithm
 │
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 ---
 
 ## 🧠 How It Works
